@@ -1,4 +1,4 @@
-# project_one
+# Game Viewer
 
 A new Flutter project.
 
